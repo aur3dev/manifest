@@ -3,6 +3,7 @@
 
 <!-- LineageOS Dependency Projects -->
   <project name="aur3dev/android_device_qcom_common" path="device/qcom/common" remote="github" revision="caf/cm-12.1" />
+   <project name="aur3dev/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="caf/cm-12.1" />
   <project name="aur3dev/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
 
 <!-- Moto G5 Cedric Projects -->
